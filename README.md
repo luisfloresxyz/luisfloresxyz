@@ -1,4 +1,4 @@
-Hi 👋, I'm a **Computer Scientist** specializing in crafting robust and scalable **back-end** solutions. I thrive on the challenge of transforming complex problems into elegant code, leveraging my expertise in **Java** and a deep understanding of software engineering principles.
+Hi 👋, I'm a **Computer Scientist** specializing in crafting robust and scalable **back-end** solutions. I thrive on the challenge of transforming complex problems into code, leveraging my expertise in **Java** and a deep understanding of software engineering principles.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luisfloresxyz)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/luisfloresxyz)
